@@ -1,0 +1,5 @@
+# Folders to ignore
+
+# Virtual environment
+
+venv/
